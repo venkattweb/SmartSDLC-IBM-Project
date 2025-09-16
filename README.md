@@ -20,6 +20,9 @@ SmartSDLC is an AI-driven approach to enhance the traditional Software Developme
 - **Phase-1**: Problem statement, requirement analysis, literature survey  
 - **Phase-2**: Core coding (requirement analyzer, health AI, ML models)  
 - **Phase-3**: UI + Integration
+
+## Health AI Output
+![Health AI Output](Health_ai_output.png)
     
  ## 👥 Team leader
  -Divakar.P
