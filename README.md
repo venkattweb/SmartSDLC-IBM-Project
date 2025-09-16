@@ -23,6 +23,9 @@ SmartSDLC is an AI-driven approach to enhance the traditional Software Developme
 
 ## Health AI Output
 ![Health AI Output](Health_ai_output.png)
+
+## Demo Video
+Watch our project demo here: [Click to Watch](https://drive.google.com/file/d/1LP9thoMf3nxvr3ZVv680mvF-JOh-xFcD/view?usp=drive_link)
     
  ## 👥 Team leader
  -Divakar.P
