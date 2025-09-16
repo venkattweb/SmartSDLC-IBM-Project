@@ -1,6 +1,14 @@
 # SmartSDLC-IBM-Project
 # SmartSDLC – AI Enhanced Software Development Life Cycle
 
+## 👥 Team leader
+ -Divakar.P
+
+## 👥 Team Members
+- Venkatesh.T
+- Levin raj.M
+- Ragul.R
+
 ## 📌 Project Overview
 SmartSDLC is an AI-driven approach to enhance the traditional Software Development Life Cycle by automating requirement analysis, health monitoring, and improving efficiency.
 
@@ -27,13 +35,11 @@ SmartSDLC is an AI-driven approach to enhance the traditional Software Developme
 ## Demo Video
 Watch our project demo here: [Click to Watch](https://drive.google.com/file/d/1LP9thoMf3nxvr3ZVv680mvF-JOh-xFcD/view?usp=sharing)
     
- ## 👥 Team leader
- -Divakar.P
-
-## 👥 Team Members
-- Venkatesh.T
-- Levin raj.M
-- Ragul.R
+ 
+## ⚡ How to Run  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/venkattweb/SmartSDLC-IBM-Project.git
 
 
 
